@@ -38,7 +38,7 @@
 	   <dict>
 	    <key>bundle-identifier</key>
 	    <!-- BundleID，就是新建app时的包名 -->
-	    <string>com.ghw.ghwline</string>
+	    <string>com.ghwline.test</string>
 	    <key>bundle-version</key>
 	    <!-- 版本号 -->
 	    <string>1.1.10</string>
